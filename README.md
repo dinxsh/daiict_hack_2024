@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-09-28 at 16 45 41_ff223f6b](https://github.com/user-attachments/assets/be286ee4-d5be-4cdd-b223-d9f0d7abb26b)# Aarogya ⚕️ 
+# Aarogya ⚕️
 
 - cross-platform app to track **calories, steps, sleep & goals** in one simple-to-use **dashboard** along with personalized **workout routines** & **meal logging** **/ nutritional overview**
 
