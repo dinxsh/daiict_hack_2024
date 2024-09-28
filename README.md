@@ -1,38 +1,36 @@
-# Minotes 📱
+# Aarogya ⚕️ 
 
-Minotes is a minimalist productivity app built with React Native and Expo, designed for efficient note-taking and task management. It offers a clean, user-friendly interface to help you stay organized and focused.
+- cross-platform app to track **calories, steps, sleep & goals** in one simple-to-use **dashboard** along with personalized **workout routines** & **meal logging** **/ nutritional overview**
 
-## Features
+## Features 📌
+- track sleep, goals, steps & goals connected to wearables 
+- dynamic goal-setting with reminders and progress updates
+- meal logging & nutritional value tracking of food consumed
 
-- **Note Taking:** Create, edit, and delete notes effortlessly.
-- **Task Management:** Add, complete, and track tasks with ease.
-- **Synchronization:** Sync your notes and tasks across devices.
-- **Dark Mode:** Switch between light and dark themes for comfort.
-
-## Getting Started
+## Setup 💻
 
 1. **Install Expo CLI:**
    ```bash
    npm install -g expo-cli
    ```
 
-## Clone the repository:
+2. Clone the repository:
 
-```git clone https://github.com/dinxsh/minotes.git```
+   ```git clone https://github.com/dinxsh/daiict_hack_2024.git```
 
 
-## Install dependencies:
+3. Install dependencies:
 
-```cd minotes
-npm install
-```
+   ```cd minotes
+   npm install
+   ```
 
-## Start the project:
+4. Start the project:
 
-```expo start```
+   ```expo start```
 
-## Contributing
-Contributions are welcome! Please read our Contributing Guide for more information on how to get started.
+## Contributing 🫂
+All contributions are welcome! Please read our Contributing Guide for more information on how to get started!
 
-## License
-Minotes is released under the MIT License. See LICENSE for details. ```
+## License 🗝️
+Minotes is released under the MIT License. See LICENSE for details :) ```
