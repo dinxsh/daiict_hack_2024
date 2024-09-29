@@ -2,6 +2,10 @@
 
 - cross-platform app to track **calories, steps, sleep & goals** in one simple-to-use **dashboard** along with personalized **workout routines** & **meal logging** **/ nutritional overview**
 
+<div align="center">
+   <a href="https://youtube.com/shorts/qW3PdDOFhf0?si=NK5jvx7V-DqBccrM">DEMO 🎥</a>
+</div>
+
 ## Features 📌
 - track sleep, goals, steps & goals connected to wearables 
 - dynamic goal-setting with reminders and progress updates
